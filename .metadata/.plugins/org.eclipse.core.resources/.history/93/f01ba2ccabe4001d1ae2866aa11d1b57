@@ -1,0 +1,42 @@
+package weekOneProblems;
+
+import org.junit.Test;
+
+public class PowOf2 {
+
+	
+	
+	@Test
+	    public void Test1() {
+		
+		
+		int input = 8;
+		
+		
+		System.out.println(isPowerof2(input));
+		
+		
+	}
+
+	private boolean isPowerof2(int input) {
+		// TODO Auto-generated method stub
+		
+		boolean answer = true;
+		
+		int n = input ;
+		while (n ==1) {
+			
+			if (n%2 ==1)  answer = false;
+			
+			n = n/2;
+			
+			
+		}
+		
+		
+		return answer;
+		
+	}
+	
+	
+}

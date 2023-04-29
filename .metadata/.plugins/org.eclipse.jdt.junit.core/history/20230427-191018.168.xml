@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="PyramidShapr" project="Sdetprepprogrames" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="patternproblem.PyramidShapr" time="0.001" displayname="PyramidShapr" uniqueid="[engine:junit-vintage]/[runner:patternproblem.PyramidShapr]">
+    <testcase name="Test1" classname="patternproblem.PyramidShapr" time="0.001" displayname="Test1" uniqueid="[engine:junit-vintage]/[runner:patternproblem.PyramidShapr]/[test:Test1(patternproblem.PyramidShapr)]"/>
+  </testsuite>
+</testrun>

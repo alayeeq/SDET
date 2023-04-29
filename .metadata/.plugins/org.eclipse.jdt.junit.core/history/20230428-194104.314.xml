@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="MissingNumber" project="Sdetprepprogrames" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="weekOneProblems.MissingNumber" time="0.0" displayname="MissingNumber" uniqueid="[engine:junit-vintage]/[runner:weekOneProblems.MissingNumber]">
+    <testcase name="Test1" classname="weekOneProblems.MissingNumber" time="0.0" displayname="Test1" uniqueid="[engine:junit-vintage]/[runner:weekOneProblems.MissingNumber]/[test:Test1(weekOneProblems.MissingNumber)]"/>
+    <testcase name="Test2" classname="weekOneProblems.MissingNumber" time="0.0" displayname="Test2" uniqueid="[engine:junit-vintage]/[runner:weekOneProblems.MissingNumber]/[test:Test2(weekOneProblems.MissingNumber)]"/>
+  </testsuite>
+</testrun>

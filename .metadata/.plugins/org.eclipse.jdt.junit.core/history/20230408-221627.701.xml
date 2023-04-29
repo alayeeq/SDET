@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestOne (1)" project="Sdetprepprogrames" tests="3" started="3" failures="0" errors="0" ignored="0">
+  <testsuite name="removeElement.TestOne" time="0.0" displayname="TestOne" uniqueid="[engine:junit-vintage]/[runner:removeElement.TestOne]">
+    <testcase name="Testing2" classname="removeElement.TestOne" time="0.0" displayname="Testing2" uniqueid="[engine:junit-vintage]/[runner:removeElement.TestOne]/[test:Testing2(removeElement.TestOne)]"/>
+    <testcase name="Testing3" classname="removeElement.TestOne" time="0.0" displayname="Testing3" uniqueid="[engine:junit-vintage]/[runner:removeElement.TestOne]/[test:Testing3(removeElement.TestOne)]"/>
+    <testcase name="Testing" classname="removeElement.TestOne" time="0.0" displayname="Testing" uniqueid="[engine:junit-vintage]/[runner:removeElement.TestOne]/[test:Testing(removeElement.TestOne)]"/>
+  </testsuite>
+</testrun>

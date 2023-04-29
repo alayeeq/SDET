@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="RemoveFirstNLastOccurinArray" project="Sdetprepprogrames" tests="4" started="4" failures="0" errors="0" ignored="0">
+  <testsuite name="weekOneProblems.RemoveFirstNLastOccurinArray" time="0.0" displayname="RemoveFirstNLastOccurinArray" uniqueid="[engine:junit-vintage]/[runner:weekOneProblems.RemoveFirstNLastOccurinArray]">
+    <testcase name="Test1" classname="weekOneProblems.RemoveFirstNLastOccurinArray" time="0.0" displayname="Test1" uniqueid="[engine:junit-vintage]/[runner:weekOneProblems.RemoveFirstNLastOccurinArray]/[test:Test1(weekOneProblems.RemoveFirstNLastOccurinArray)]"/>
+    <testcase name="Test2" classname="weekOneProblems.RemoveFirstNLastOccurinArray" time="0.0" displayname="Test2" uniqueid="[engine:junit-vintage]/[runner:weekOneProblems.RemoveFirstNLastOccurinArray]/[test:Test2(weekOneProblems.RemoveFirstNLastOccurinArray)]"/>
+    <testcase name="Test3" classname="weekOneProblems.RemoveFirstNLastOccurinArray" time="0.0" displayname="Test3" uniqueid="[engine:junit-vintage]/[runner:weekOneProblems.RemoveFirstNLastOccurinArray]/[test:Test3(weekOneProblems.RemoveFirstNLastOccurinArray)]"/>
+    <testcase name="Test4" classname="weekOneProblems.RemoveFirstNLastOccurinArray" time="0.0" displayname="Test4" uniqueid="[engine:junit-vintage]/[runner:weekOneProblems.RemoveFirstNLastOccurinArray]/[test:Test4(weekOneProblems.RemoveFirstNLastOccurinArray)]"/>
+  </testsuite>
+</testrun>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="DigitSum" project="Sdetprepprogrames" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="weekOneProblems.DigitSum" time="0.0" displayname="DigitSum" uniqueid="[engine:junit-vintage]/[runner:weekOneProblems.DigitSum]">
+    <testcase name="Find_digit_sum" classname="weekOneProblems.DigitSum" time="0.0" displayname="Find_digit_sum" uniqueid="[engine:junit-vintage]/[runner:weekOneProblems.DigitSum]/[test:Find_digit_sum(weekOneProblems.DigitSum)]"/>
+    <testcase name="Find_digit_sum2" classname="weekOneProblems.DigitSum" time="0.0" displayname="Find_digit_sum2" uniqueid="[engine:junit-vintage]/[runner:weekOneProblems.DigitSum]/[test:Find_digit_sum2(weekOneProblems.DigitSum)]"/>
+  </testsuite>
+</testrun>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="PowOf2" project="Sdetprepprogrames" tests="4" started="4" failures="0" errors="0" ignored="0">
+  <testsuite name="weekOneProblems.PowOf2" time="0.0" displayname="PowOf2" uniqueid="[engine:junit-vintage]/[runner:weekOneProblems.PowOf2]">
+    <testcase name="Test1" classname="weekOneProblems.PowOf2" time="0.0" displayname="Test1" uniqueid="[engine:junit-vintage]/[runner:weekOneProblems.PowOf2]/[test:Test1(weekOneProblems.PowOf2)]"/>
+    <testcase name="Test2" classname="weekOneProblems.PowOf2" time="0.0" displayname="Test2" uniqueid="[engine:junit-vintage]/[runner:weekOneProblems.PowOf2]/[test:Test2(weekOneProblems.PowOf2)]"/>
+    <testcase name="Test3" classname="weekOneProblems.PowOf2" time="0.0" displayname="Test3" uniqueid="[engine:junit-vintage]/[runner:weekOneProblems.PowOf2]/[test:Test3(weekOneProblems.PowOf2)]"/>
+    <testcase name="Test4" classname="weekOneProblems.PowOf2" time="0.0" displayname="Test4" uniqueid="[engine:junit-vintage]/[runner:weekOneProblems.PowOf2]/[test:Test4(weekOneProblems.PowOf2)]"/>
+  </testsuite>
+</testrun>

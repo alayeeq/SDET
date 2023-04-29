@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="SandGlassStarshape" project="Sdetprepprogrames" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="patternproblem.SandGlassStarshape" time="0.0" displayname="SandGlassStarshape" uniqueid="[engine:junit-vintage]/[runner:patternproblem.SandGlassStarshape]">
+    <testcase name="Test1" classname="patternproblem.SandGlassStarshape" time="0.0" displayname="Test1" uniqueid="[engine:junit-vintage]/[runner:patternproblem.SandGlassStarshape]/[test:Test1(patternproblem.SandGlassStarshape)]"/>
+  </testsuite>
+</testrun>

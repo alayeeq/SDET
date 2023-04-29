@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="DiamondPattern" project="Sdetprepprogrames" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="patternproblem.DiamondPattern" incomplete="true" displayname="DiamondPattern" uniqueid="[engine:junit-vintage]/[runner:patternproblem.DiamondPattern]">
+    <testcase name="Test1" classname="patternproblem.DiamondPattern" incomplete="true" displayname="Test1" uniqueid="[engine:junit-vintage]/[runner:patternproblem.DiamondPattern]/[test:Test1(patternproblem.DiamondPattern)]"/>
+  </testsuite>
+</testrun>
