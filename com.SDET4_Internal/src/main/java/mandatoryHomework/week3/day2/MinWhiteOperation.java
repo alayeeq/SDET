@@ -1,7 +1,7 @@
 /**
  * 
  */
-package week3.day2;
+package mandatoryHomework.week3.day2;
 
 import org.junit.Test;
 

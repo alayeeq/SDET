@@ -1,4 +1,4 @@
-package week1.day3;
+package mandatoryHomework.week1.day3;
 
 import java.util.Comparator;
 

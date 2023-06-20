@@ -1,4 +1,4 @@
-package week3.day3;
+package mandatoryHomework.week3.day3;
 
 import org.junit.Test;
 import java.util.TreeMap;

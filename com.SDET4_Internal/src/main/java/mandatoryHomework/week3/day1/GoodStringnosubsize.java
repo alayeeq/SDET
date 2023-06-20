@@ -1,4 +1,4 @@
-package week3.day1;
+package mandatoryHomework.week3.day1;
 
 import java.util.LinkedHashMap;
 

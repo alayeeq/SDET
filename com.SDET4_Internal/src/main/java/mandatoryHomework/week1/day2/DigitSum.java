@@ -1,4 +1,4 @@
-package week1.day2;
+package mandatoryHomework.week1.day2;
 import org.junit.Test;
 public class DigitSum {
 	
