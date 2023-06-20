@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="CharacterDiamond" project="Sdetprepprogrames" tests="2" started="2" failures="0" errors="0" ignored="0">
-  <testsuite name="patternproblem.CharacterDiamond" time="0.001" displayname="CharacterDiamond" uniqueid="[engine:junit-vintage]/[runner:patternproblem.CharacterDiamond]">
-    <testcase name="Test1" classname="patternproblem.CharacterDiamond" time="0.001" displayname="Test1" uniqueid="[engine:junit-vintage]/[runner:patternproblem.CharacterDiamond]/[test:Test1(patternproblem.CharacterDiamond)]"/>
-    <testcase name="Test2" classname="patternproblem.CharacterDiamond" time="0.0" displayname="Test2" uniqueid="[engine:junit-vintage]/[runner:patternproblem.CharacterDiamond]/[test:Test2(patternproblem.CharacterDiamond)]"/>
-  </testsuite>
-</testrun>

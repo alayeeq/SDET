@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="GoodString" project="Sdetprepprogrames" tests="3" started="3" failures="0" errors="0" ignored="0">
-  <testsuite name="removeElement.GoodString" time="0.0" displayname="GoodString" uniqueid="[engine:junit-vintage]/[runner:removeElement.GoodString]">
-    <testcase name="Test1" classname="removeElement.GoodString" time="0.0" displayname="Test1" uniqueid="[engine:junit-vintage]/[runner:removeElement.GoodString]/[test:Test1(removeElement.GoodString)]"/>
-    <testcase name="Test2" classname="removeElement.GoodString" time="0.0" displayname="Test2" uniqueid="[engine:junit-vintage]/[runner:removeElement.GoodString]/[test:Test2(removeElement.GoodString)]"/>
-    <testcase name="Test3" classname="removeElement.GoodString" time="0.0" displayname="Test3" uniqueid="[engine:junit-vintage]/[runner:removeElement.GoodString]/[test:Test3(removeElement.GoodString)]"/>
-  </testsuite>
-</testrun>

@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="TargetPositions" project="Sdetprepprogrames" tests="2" started="2" failures="0" errors="0" ignored="0">
-  <testsuite name="removeElement.TargetPositions" time="0.0" displayname="TargetPositions" uniqueid="[engine:junit-vintage]/[runner:removeElement.TargetPositions]">
-    <testcase name="Test1" classname="removeElement.TargetPositions" time="0.0" displayname="Test1" uniqueid="[engine:junit-vintage]/[runner:removeElement.TargetPositions]/[test:Test1(removeElement.TargetPositions)]"/>
-    <testcase name="Test2" classname="removeElement.TargetPositions" time="0.0" displayname="Test2" uniqueid="[engine:junit-vintage]/[runner:removeElement.TargetPositions]/[test:Test2(removeElement.TargetPositions)]"/>
-  </testsuite>
-</testrun>

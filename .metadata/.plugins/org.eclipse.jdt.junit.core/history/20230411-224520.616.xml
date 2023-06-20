@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="GoodStringnosubsize" project="Sdetprepprogrames" tests="1" started="1" failures="0" errors="0" ignored="0">
-  <testsuite name="removeElement.GoodStringnosubsize" time="0.0" displayname="GoodStringnosubsize" uniqueid="[engine:junit-vintage]/[runner:removeElement.GoodStringnosubsize]">
-    <testcase name="Test1" classname="removeElement.GoodStringnosubsize" time="0.0" displayname="Test1" uniqueid="[engine:junit-vintage]/[runner:removeElement.GoodStringnosubsize]/[test:Test1(removeElement.GoodStringnosubsize)]"/>
-  </testsuite>
-</testrun>

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="RightPascalTriangle" project="Sdetprepprogrames" tests="3" started="3" failures="0" errors="0" ignored="0">
-  <testsuite name="patternproblem.RightPascalTriangle" time="0.0" displayname="RightPascalTriangle" uniqueid="[engine:junit-vintage]/[runner:patternproblem.RightPascalTriangle]">
-    <testcase name="Test1" classname="patternproblem.RightPascalTriangle" time="0.0" displayname="Test1" uniqueid="[engine:junit-vintage]/[runner:patternproblem.RightPascalTriangle]/[test:Test1(patternproblem.RightPascalTriangle)]"/>
-    <testcase name="Test2" classname="patternproblem.RightPascalTriangle" time="0.0" displayname="Test2" uniqueid="[engine:junit-vintage]/[runner:patternproblem.RightPascalTriangle]/[test:Test2(patternproblem.RightPascalTriangle)]"/>
-    <testcase name="Test3" classname="patternproblem.RightPascalTriangle" time="0.0" displayname="Test3" uniqueid="[engine:junit-vintage]/[runner:patternproblem.RightPascalTriangle]/[test:Test3(patternproblem.RightPascalTriangle)]"/>
-  </testsuite>
-</testrun>
