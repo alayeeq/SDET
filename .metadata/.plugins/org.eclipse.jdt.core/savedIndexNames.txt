@@ -1,4 +1,0 @@
-INDEX VERSION 1.132+C:\Users\DELL\Documents\SDET Training\Repo\SDET\.metadata\.plugins\org.eclipse.jdt.core
-1865797976.index
-3688658177.index
-2494685458.index
